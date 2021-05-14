@@ -23,9 +23,7 @@ iOS Tweaks Developer
 # Skills
 
 # Contact me
-<a href="http://twitter.com/root_melon">
-    <img height="20" src="https://img.shields.io/twitter/follow/yutkat?label=Twitter&logo=twitter&style=flat" />
-  </a>
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=696969&label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Froot_melon">
 <a href="https://www.reddit.com/user/yutkat">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/melon4ce?label=Reddit&logo=reddit&style=flat" />
   </a>
