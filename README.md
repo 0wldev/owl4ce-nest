@@ -8,7 +8,7 @@ UIAlertView *alert = [[UIAlertView alloc] init];
 
 alert.title = @”Hi,this is my repo”;
 
-alert.message = @”i'm øwl4cce.Tweaks developer from 🇯🇵.”;
+alert.message = @”i'm øwl.Tweaks developer from 🇯🇵.”;
 
 }
 
